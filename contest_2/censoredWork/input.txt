@@ -1,0 +1,8 @@
+3 1
+aab
+6 2
+aabcbb
+50 159
+aaabaababaabaaaabaabbxaazbaaaababaababbbaaaabaabbb
+6 1
+xxxxxx
